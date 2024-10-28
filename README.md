@@ -201,3 +201,9 @@ PS C:\DATA\GIT\CSHARP\BlazorAppToDoList\BlazorAppToDoList>
 ### Add the to-do page to the nav menu
 
 ![002_nav](img/002_nav.PNG)
+
+### Build a list of to-do items
+
+### Add to-do items
+
+![003_items](img/003_items.PNG)
