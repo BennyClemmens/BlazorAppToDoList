@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\DATA\\GIT\\CSHARP\\BlazorAppToDoList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A09A483D-6054-4F75-96C3-B865BE48DBB9}|BlazorAppToDoList\\BlazorAppToDoList.csproj|c:\\data\\git\\csharp\\blazorapptodolist\\blazorapptodolist\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A483D-6054-4F75-96C3-B865BE48DBB9}|BlazorAppToDoList\\BlazorAppToDoList.csproj|solutionrelative:blazorapptodolist\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A09A483D-6054-4F75-96C3-B865BE48DBB9}|BlazorAppToDoList\\BlazorAppToDoList.csproj|c:\\data\\git\\csharp\\blazorapptodolist\\blazorapptodolist\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A09A483D-6054-4F75-96C3-B865BE48DBB9}|BlazorAppToDoList\\BlazorAppToDoList.csproj|solutionrelative:blazorapptodolist\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\DATA\\GIT\\CSHARP\\BlazorAppToDoList\\BlazorAppToDoList\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorAppToDoList\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\DATA\\GIT\\CSHARP\\BlazorAppToDoList\\BlazorAppToDoList\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorAppToDoList\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:19:55.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Todo.razor",
               "DocumentMoniker": "C:\\DATA\\GIT\\CSHARP\\BlazorAppToDoList\\BlazorAppToDoList\\Components\\Pages\\Todo.razor",
               "RelativeDocumentMoniker": "BlazorAppToDoList\\Components\\Pages\\Todo.razor",

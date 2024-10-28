@@ -197,3 +197,7 @@ PS C:\DATA\GIT\CSHARP\BlazorAppToDoList\BlazorAppToDoList>
 ```
 
 ![001_todo](img/001_todo.PNG)
+
+### Add the to-do page to the nav menu
+
+![002_nav](img/002_nav.PNG)
