@@ -27,3 +27,4 @@ C:\DATA\GIT\CSHARP\BlazorAppToDoList\BlazorAppToDoList\obj\Debug\net8.0\refint\B
 C:\DATA\GIT\CSHARP\BlazorAppToDoList\BlazorAppToDoList\obj\Debug\net8.0\BlazorAppToDoList.pdb
 C:\DATA\GIT\CSHARP\BlazorAppToDoList\BlazorAppToDoList\obj\Debug\net8.0\BlazorAppToDoList.genruntimeconfig.cache
 C:\DATA\GIT\CSHARP\BlazorAppToDoList\BlazorAppToDoList\obj\Debug\net8.0\ref\BlazorAppToDoList.dll
+C:\DATA\GIT\CSHARP\BlazorAppToDoList\BlazorAppToDoList\obj\Debug\net8.0\BlazorAppToDoList.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorAppToDoList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c7259f93e4a9a99c6e3394ddce284a7f1823819")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorAppToDoList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorAppToDoList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

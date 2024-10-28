@@ -174,3 +174,26 @@ To https://github.com/BennyClemmens/BlazorAppToDoList.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
 ```
+
+## Create the to-do list page
+
+### Create a new Blazor Web App project.
+
+This was allready done before the git init, so the repo would have some content. Standard 'Blazor Web App' with test pages.
+
+### Add a Todo.razor file to the Components/Pages folder
+
+Took the terminal way. Note: `cd into the correct directory first!`
+
+```bash
+PS C:\DATA\GIT\CSHARP\BlazorAppToDoList> dotnet new razorcomponent -n Todo -o Components/Pages
+The template "Razor Component" was created successfully.
+
+PS C:\DATA\GIT\CSHARP\BlazorAppToDoList> cd .\BlazorAppToDoList\
+PS C:\DATA\GIT\CSHARP\BlazorAppToDoList\BlazorAppToDoList> dotnet new razorcomponent -n Todo -o Components/Pages
+The template "Razor Component" was created successfully.
+
+PS C:\DATA\GIT\CSHARP\BlazorAppToDoList\BlazorAppToDoList>
+```
+
+![001_todo](img/001_todo.PNG)
