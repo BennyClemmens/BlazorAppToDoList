@@ -177,7 +177,7 @@ branch 'main' set up to track 'origin/main'.
 
 ## Create the to-do list page
 
-### Create a new Blazor Web App project.
+### Create a new Blazor Web App project
 
 This was allready done before the git init, so the repo would have some content. Standard 'Blazor Web App' with test pages.
 
