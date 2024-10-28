@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppToDoList", "BlazorAppToDoList\BlazorAppToDoList.csproj", "{A09A483D-6054-4F75-96C3-B865BE48DBB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A09A483D-6054-4F75-96C3-B865BE48DBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09A483D-6054-4F75-96C3-B865BE48DBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09A483D-6054-4F75-96C3-B865BE48DBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09A483D-6054-4F75-96C3-B865BE48DBB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEEE98CB-7762-4DF1-83AF-255CE272BC4E}
+	EndGlobalSection
+EndGlobal
