@@ -207,3 +207,7 @@ PS C:\DATA\GIT\CSHARP\BlazorAppToDoList\BlazorAppToDoList>
 ### Add to-do items
 
 ![003_items](img/003_items.PNG)
+
+### Add checkboxes and count incomplete to-do items
+
+![004_todo_teller](img/004_todo_teller.PNG)
